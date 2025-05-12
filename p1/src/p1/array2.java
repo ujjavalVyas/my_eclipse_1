@@ -5,7 +5,7 @@ public class array2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] number = {1,2,3,4,5};
+		int[] number = {1,2,3,4,5,6};
 		int target = 0;
 		boolean isfound = false;
 		
